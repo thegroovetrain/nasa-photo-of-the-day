@@ -1,0 +1,21 @@
+.apod-content {
+    color: white;
+    width: 90%;
+    margin: auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.apod-content h1 {
+    font-size: 3rem;
+}
+
+.apod-content h2 {
+    font-size: 2.2rem;
+}
+
+.apod-content p {
+    font-size: 1.1rem;
+}

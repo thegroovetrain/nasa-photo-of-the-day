@@ -1,0 +1,7 @@
+.apod-container {
+    height: 100%;
+    background-position:center;
+    background-attachment: fixed;
+    background-size: cover;
+    z-index: 0;
+}
